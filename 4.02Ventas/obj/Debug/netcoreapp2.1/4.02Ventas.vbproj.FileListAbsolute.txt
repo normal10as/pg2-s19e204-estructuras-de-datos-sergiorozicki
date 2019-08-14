@@ -9,3 +9,14 @@ D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\EstructurasDatos\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.dll
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\EstructurasDatos\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.pdb
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\EstructurasDatos\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\bin\Debug\netcoreapp2.1\4.02Ventas.deps.json
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\bin\Debug\netcoreapp2.1\4.02Ventas.runtimeconfig.json
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\bin\Debug\netcoreapp2.1\4.02Ventas.runtimeconfig.dev.json
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\bin\Debug\netcoreapp2.1\4.02Ventas.dll
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\bin\Debug\netcoreapp2.1\4.02Ventas.pdb
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.AssemblyInfo.vb
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.dll
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.pdb
+D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.02Ventas\obj\Debug\netcoreapp2.1\4.02Ventas.vbprojAssemblyReference.cache

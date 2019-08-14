@@ -38,17 +38,20 @@ Module Notas
     End Sub
     Sub NombreAlumno(Nombres_Alumnos As Array)
         Do
-            bandera = 0
+            bandera = False
             Console.Write("Ingrese el nombre del alumno {0} (debe tener 3 o mas caracteres, y sin repeticiones de nombres): ", contador + 1)
             Nombres_Alumnos(contador) = Console.ReadLine()
             nombre_alumno = Nombres_Alumnos(contador)
             For x = 0 To cantidad_alumnos
-                If (Nombres_Alumnos(contador) = Nombres_Alumnos(x) And Nombres_Alumnos(contador) <> Nombres_Alumnos(contador)) Or (nombre_alumno.Length < 3) Then
-                    bandera = 1
+                If nombre_alumno = Nombres_Alumnos(x) Or nombre_alumno.Length < 3 Then
+                    bandera = True
                     Exit For
                 End If
             Next
-        Loop While bandera = 1
+            If bandera = False Then
+                Nombres_Alumnos(contador) = nombre_alumno
+            End If
+        Loop While bandera = True
     End Sub
     Sub NotaAlumno(Nombres_Alumnos As Array, Notas_Alumnos As Array)
         contador2 = 0
