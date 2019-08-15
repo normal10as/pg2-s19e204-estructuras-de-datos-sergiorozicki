@@ -10,7 +10,7 @@ Module Turnos
         Do
             Console.WriteLine("Total de clientes en espera: {0}", Turnos.Count)
             Console.WriteLine(vbTab & vbTab & "Ingrese una opción")
-            Console.Write("1- Agregar cliente a la lista" & vbCrLf & "2-Despachar cliente" & vbCrLf & "(ENTER para salir): ")
+            Console.Write("1-Agregar cliente a la lista" & vbCrLf & "2-Despachar cliente" & vbCrLf & "(ENTER para salir): ")
             opcion = Console.ReadLine
             If Turnos.Count > 0 And opcion <> "" Then
                 Console.WriteLine("Los nombres de los clientes son")
@@ -18,7 +18,7 @@ Module Turnos
                     Console.WriteLine(clientes)
                 Next
             Else
-                Console.WriteLine("No hay clientes en espera")
+                Console.WriteLine(vbTab & "No hay clientes en espera")
             End If
             Select Case opcion
                 Case ""

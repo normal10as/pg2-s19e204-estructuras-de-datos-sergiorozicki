@@ -1,6 +1,6 @@
 Imports System
 
-Module Program
+Module DominioHashTable
     Private Dominio_Paices As New Hashtable
     Private opcion, pais, dominio As String
     Private bandera As Boolean
@@ -21,7 +21,7 @@ Module Program
         Do
             Console.WriteLine(vbTab & vbTab & vbTab & "Seleccione una opción")
             Console.WriteLine("Total de paices cargados: {0}", Dominio_Paices.Count)
-            Console.Write("1-Agregar" & vbCrLf & "2-Editar" & vbCrLf & "3-Eliminar" & vbCrLf & "4-Mostrar nombre del país y su dominio. " & vbCrLf & "(ENTER para salir): ")
+            Console.Write("1-Agregar" & vbCrLf & "2-Editar" & vbCrLf & "3-Eliminar" & vbCrLf & "4-Mostrar nombre del país y su dominio " & vbCrLf & "(ENTER para salir): ")
             opcion = Console.ReadLine
             If opcion = "" Then
                 Exit Sub

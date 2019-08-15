@@ -3,7 +3,6 @@ D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.09Turnos\bin\Debug\netcoreapp2.1\4.09Turnos.runtimeconfig.dev.json
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.09Turnos\bin\Debug\netcoreapp2.1\4.09Turnos.dll
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.09Turnos\bin\Debug\netcoreapp2.1\4.09Turnos.pdb
-D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.09Turnos\obj\Debug\netcoreapp2.1\4.09Turnos.vbprojAssemblyReference.cache
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.09Turnos\obj\Debug\netcoreapp2.1\4.09Turnos.vbproj.CoreCompileInputs.cache
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.09Turnos\obj\Debug\netcoreapp2.1\4.09Turnos.AssemblyInfoInputs.cache
 D:\2019\Visual Basic\GitHub\Estructura de Datos\pg2-s19e204-estructuras-de-datos-sergiorozicki\4.09Turnos\obj\Debug\netcoreapp2.1\4.09Turnos.AssemblyInfo.vb
