@@ -57,8 +57,13 @@ Module TurnosPrioridad
     Sub Ancianos()
         Console.Write("Ingrese el nombre del cliente: ")
         nombre = Console.ReadLine
-        Turnos.AddFirst(nombre)
-        ultimo_anciano = nombre
+        If ultimo_anciano = "" Then
+            Turnos.AddFirst(nombre)
+            ultimo_anciano = nombre
+        Else
+            Turnos.AddAfter(Turnos.FindLast(ultimo_anciano), nombre)
+        End If
+
     End Sub
     Sub Embarazadas()
         Console.Write("Ingrese el nombre del cliente: ")
